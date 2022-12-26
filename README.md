@@ -1,0 +1,2 @@
+# codex
+# ai-coding-friend
